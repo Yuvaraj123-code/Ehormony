@@ -1,0 +1,467 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Outfit:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Oswald:wght@200..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Bebas+Neue&display=swap');
+
+
+
+.backlogo{
+    top:0;
+    right:0;
+    left:0;
+    
+    bottom: 0;
+    padding: 0;
+    
+    background-size: cover;
+    background: green;
+    z-index: -1;
+    position: absolute;
+    
+}
+.form-container{
+    margin-left: 70px;
+}
+.heey{
+    position: relative;
+    color:white;
+    font-size: 6vh;
+    margin-top: 0vh;
+    margin-left: 30px;
+    
+}
+.inputradio1{
+    width: 20px;
+    margin-left: 10px;
+   
+
+}
+.inputradio2{
+    margin-left: 10px;
+}
+.inputradio3{
+    margin-left: 10px;
+}
+span{
+    color: orange;
+}
+.getwho{
+    color: aliceblue;
+    font-size: 10vh;
+    margin-left: 10vh;
+    padding-top: 10px;
+    margin-top: 0px;
+    
+}
+.getyou{
+    color: aliceblue;
+    font-size: 10vh;
+    margin-left: 30vh;
+    margin-top: 40px;
+
+   
+
+}
+.header{
+    margin-left:10vh;
+   
+}
+.main-form{
+  
+    width: 70vh;
+    color: aliceblue;
+    left: 10px;
+    border-radius: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+
+
+  
+}
+.one{
+    background-color: aliceblue;
+    margin-bottom: 10px;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    width: 300px;
+    height:40px;
+    cursor: pointer;
+
+
+
+
+   
+}
+.two{
+    background-color: aliceblue;
+    margin-bottom: 10px;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    width: 300px;
+    height:40px;
+    cursor: pointer;
+
+
+
+
+
+}
+.three{
+    background-color: aliceblue;
+    margin-bottom: 10px;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    width: 300px;
+    height:40px;
+    cursor: pointer;
+
+
+
+
+
+}
+label{
+    color: black;
+
+
+}
+.pages1{
+    display: flex;
+}
+.page2{
+    align-content: center;
+    margin-left: 60vh;
+    font-family: Anton;
+    color:rgb(230, 101, 123);
+    margin-top: 40px;
+    display: flex;
+    
+}
+.images{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    display: flex;
+}
+.image1{
+    border-color:pink;
+    border-radius: 20px;
+    border-width: 7px;
+    border-style: solid;
+}
+.image2{
+    border-color:pink;
+    border-radius: 20px;
+    border-width: 7px;
+    border-style: solid;
+}
+.image0{
+    border-color:pink;
+    border-radius: 20px;
+    border-width: 7px;
+    font-family: Anton;
+    border-style: solid;
+
+    h1{
+        font-family: Anton;
+    }
+    
+}
+h1{
+    font-family: Poppins;
+}
+p{
+    font-family:Poppins ;
+    text-align: center;
+}
+ .page3{
+    text-align: center;
+    margin-top: 30px;
+
+    .nextpage3{
+        color: rgba(0, 132, 255, 0.888);
+    }
+    .nextpage33{
+        color: black;
+    }
+ }
+ .page4{
+    margin-top: 20px;
+    text-align: center;
+    color: rgba(0, 132, 255, 0.888);
+ }
+ .video{
+    border-radius: 10px;
+ }
+ .classpage4{
+    color:rgba(0, 132, 255, 0.888) ;
+    margin-left: 70vh;
+    margin-top: 12vh;
+ }
+ .imagepage4{
+    margin-left: 200px;
+    margin-top: 40px;
+   
+ }
+ .page5{
+   display: flex;
+   text-align: center;
+ }
+ .page5p{
+    text-align: center;
+    margin-top: 150px;
+ }
+//  .mybuttonpage4{
+//     text-align: center;
+//     margin-bottom: 10vh;
+//     margin-left: 100vh;
+// }
+
+#btn-btn{
+    height: 3rem;
+    width: 7rem;
+    margin-right: 20vh;
+}
+.myh16{
+    color:rgba(0, 132, 255, 0.888) ;
+    text-align: center;
+    font-family: poppins;
+    margin-top: 80px;
+  
+}
+.page6{
+    display: flex;
+    text-align: center;
+    margin-top: 7vh;
+}
+.myp{
+    margin-top: 15vh;
+}
+.mylastimg{
+    margin-right: 70px;
+}
+
+#btn-btn1{
+    height: 3rem;
+    width: 7rem;
+    margin-right: 20vh;
+}
+.page7{
+    background-color:rgb(53, 111, 165) ;
+    height: 420px;
+    text-align: center;
+    margin-top: 40px;
+    color: white;
+    justify-content: center;
+    font-family:sans-serif ;
+    padding-top: 80px;
+}
+.mypage7button{
+    height: 3rem;
+    width: 8rem;
+    background-color: transparent;
+ 
+   border-color: white;
+    border-radius: 10px;
+}
+.page8{
+    align-items: center;
+    text-align: center;
+    margin-top: 40px;
+    color: rgb(53, 111, 165);
+
+    
+
+    
+}
+.page8images{
+  margin-top:70px;
+  display: grid;
+   grid-template-rows: repeat(2,160px);
+  grid-template-columns: repeat(2,200px);
+   position: relative;
+   top:5vh;
+   margin-left: 20px;
+   
+    
+ 
+  
+  
+
+
+    .pic2{
+        border-style: solid;
+        border-color: rgb(53, 111, 165) ;
+        border-width: 5px;
+        border-radius: 20px;
+    //     display: flex;
+    //     margin-top: 0px;
+    //     position: absolute;
+        
+ 
+     }
+     .pic1{
+         border-style: solid;
+         border-color: rgb(53, 111, 165) ;
+         border-width: 5px;
+         border-radius: 20px;
+    //      flex-direction: row;
+    //      box-sizing: border-box;
+    //      width:200px;
+    //      height:150px;
+         
+    //      margin-top: 0;
+        
+         }
+      .pic3{
+         border-style: solid;
+         border-color: rgb(53, 111, 165) ;
+         border-width: 5px;
+         border-radius: 20px;
+    //      width:200px;
+        
+
+        
+         
+     }
+     
+
+    }
+
+.page8h5{
+position: relative;
+display: flex;
+text-align: center;
+
+}
+.pageh5{
+    position: relative;
+    text-align: center;
+}
+.mypage8p{
+    position: absolute ;
+     
+     top:15vh;
+     left:100vh;
+    
+
+    
+   
+}
+#page9{
+    margin-top: 19.5vh;
+    
+   h1{
+    background-color: rgb(53, 111, 165);
+    text-align: center;
+    font-size: 8vh;
+    color: white;
+    
+    font-family:Anton ;
+
+   }
+    .card-body{
+        height: 90vh;
+        background-color:rgb(53, 111, 165) ;
+    }
+    .image-page9{
+      text-align: center;
+       margin-top: 10vh;
+      
+    }
+    .card-text{
+        color: white;
+        font-size: 4vh;
+        margin-top: 5vh;
+        justify-content: space-evenly;
+    }
+   #button-page10{
+   color:white;
+   font-family: anton;
+    display: inline-block;
+    margin-left: 92vh;
+    font-size: 4vh;
+    background:linear-gradient(rgb(246, 114, 6) 60%,white );
+    border: none;
+     
+   }
+}
+.page10image{
+    display: flex;
+    grid-template-columns:repeat(2,599px);
+    grid-template-rows:repeat(2,50px);
+    
+  
+
+
+    img{
+        border-radius: 20px;
+        border: rgb(53, 111, 165) solid 7px;
+        margin-left: 70px;
+        margin-top: 6vh;
+    }
+  
+    .myh44{
+        color:rgb(53, 111, 165) ;
+        margin-top: 3vh;
+        margin-left: 8vh;
+    }
+    .myh445{
+        color:rgb(53, 111, 165);
+        margin-top: 3vh;
+        margin-left: 10vh;
+
+    }
+    p{
+        font-size: 3vh;
+        margin-top: 3vh;
+    }
+}
+
+.myh10{
+    color: rgb(53, 111, 165);
+    font-family: anton;
+    text-align: center;
+    margin-top: 10vh;
+
+   
+}
+.myh101{
+    text-align: center;
+    margin-top: 7vh;
+    
+    
+}
+
+.myfooter{
+    display: flex;
+    grid-template-columns: 2();
+    grid-template-rows: 2();
+    gap: 300px;
+    background-color: rgb(53, 111, 165);
+    
+h2{
+    color: white;
+}
+    .myfooterlogo{
+        font-size: 5vh; 
+        display: flex;
+        gap:30px;
+       margin-top: 10px;  
+       margin-left: 10px; 
+ }
+ .myfooterlogo3{
+    font-size: 5vh;
+    display: flex;
+    gap: 30px;
+    margin-top: 10px;  
+
+ }
+}
+.myfooterlast{
+    text-align: center;
+    background-color:  rgb(53, 111, 165);
+    color: white;
+    
+}
