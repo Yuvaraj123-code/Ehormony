@@ -23,12 +23,12 @@ import image10 from './Assets/page10.png'
 import image101 from './Assets/page101.png'
 
 
-import { FaFacebook } from "react-icons/fa";
-import { FaSquareTwitter } from "react-icons/fa6";
-import { FaYoutube } from "react-icons/fa";
-import { FaInstagram } from "react-icons/fa";
-import { FaApple } from "react-icons/fa";
-import { BsAndroid2 } from "react-icons/bs";
+import { FaFacebook } from 'react-icons/fa';
+import { FaSquareTwitter } from 'react-icons/fa6';
+import { FaYoutube } from 'react-icons/fa';
+import { FaInstagram } from 'react-icons/fa';
+import { FaApple } from 'react-icons/fa';
+import { BsAndroid2 } from 'react-icons/bs';
 
 
 
