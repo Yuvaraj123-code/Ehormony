@@ -5,7 +5,7 @@ import { useState } from 'react';
 import ToggleButton from 'react-bootstrap/ToggleButton';
 import ToggleButtonGroup from 'react-bootstrap/ToggleButtonGroup';
 
-import homepic from '../src/Assets/First.jpg'
+import homepic from '../src/Assets/eharmony_tour_headerimage.jpg'
 
 import image0 from './Assets/couple.png'
 import image1 from './Assets/couple1.png'
